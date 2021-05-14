@@ -43,8 +43,8 @@ _I was not able to implement TEXTS,SHAPES and can't debug due to time constraint
  - Bootloading and uploading the code to the Microcontroller:
     - Install support for ATTINY: https://github.com/SpenceKonde/ATTinyCore
     - Upload the "Arduino as ISP sketch" to the Arduino board of yours :[File] -> [Examples] -> [Arduino as ISP]
-    - Connect the ATTINY with your arduino board based on the wiring below
-    - (image)
+    - Connect the ATTINY with your arduino board based on the wiring below \
+   <img src="images/bootloading.jpeg" alt="Wiring" width="200"/> 
     - In the arduino IDE:
     - Select the correct chip:
        - Attiny Core: "Attiny 24/44/84"
@@ -53,9 +53,10 @@ _I was not able to implement TEXTS,SHAPES and can't debug due to time constraint
        - Pin Mapping "Counter Clockwise"  
     - Upload the code
  - Now Attiny can be placed on the spinner and debugged accordingly
+
 Before soldering | After soldering
 ------------ | -------------
-![Before](images/Before.jpeg) | ![After](images/After.jpeg)
+<img src="images/Before.jpeg" alt="Before" width="200"/> | <img src="images/After.jpeg" alt="After" width="200"/>
 
 # OUTPUT:
      (Images)
