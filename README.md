@@ -67,4 +67,5 @@ Before soldering | After soldering
 Video link: 
 
 
-
+### Reference and Credits:
+ - https://www.instructables.com/Geek-Spinner/
