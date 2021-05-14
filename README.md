@@ -62,8 +62,9 @@ Before soldering | After soldering
 # OUTPUT:
  Mode 1 | Mode 2 | Mode 3 | Mode 4 | Mode 5 | Mode 6 | Mode 7
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<img src="images/Mode1.jpeg" alt="Before" width="200"/> | <img src="images/Mode2.jpeg" alt="After" width="200"/> | <img src="images/Mode3.jpeg" alt="Before" width="200"/> | <img src="images/Mode4.jpeg" alt="Before" width="200"/> |<img src="images/Mode5.jpeg" alt="Before" width="200"/> | <img src="images/Mode6.jpeg" alt="Before" width="200"/> | <img src="images/Mode7.jpeg" alt="Before" width="200"/> 
+<img src="images/Mode1.jpeg" alt="Before" width="200"/> | <img src="images/Mode2.jpeg" alt="After" width="200"/> | <img src="images/Mode3.jpeg" alt="Before" width="200"/> | <img src="images/Mode4.jpeg" alt="Before" width="200"/> |<img src="images/Mode5.jpeg" alt="Before" width="200"/> | <img src="images/Mode6.jpeg" alt="Before" width="200"/> | <img src="images/Mode7.jpeg" alt="Before" width="200"/>
 
+Video link: 
 
 
 
