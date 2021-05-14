@@ -52,7 +52,7 @@ _I was not able to implement TEXTS,SHAPES and can't debug due to time constraint
        - Chip "Attiny 84"
        - 8 Mhz (Internal)
        - Pin Mapping "Counter Clockwise"  
-    - Upload the code
+    - Upload the [code](code/code.ino)
  - Now Attiny can be placed on the spinner and debugged accordingly
 
 Before soldering | After soldering
