@@ -31,7 +31,7 @@ Manually:
 
 Optional: (If interested in implementing TEXTS,SHAPES) 
 
-_I was not able to implement TEXTS,SHAPES and can't debug due to time constraints_
+_I was not able to implement TEXTS,SHAPES and can't debug due to time constraints_(Refer this for code and implementation:[Instructables](https://github.com/Fruitseye/POV_FidgetSpinner/blob/main/README.md#reference-and-credits))
 
  - Hall effect sensor ([Flipkart](https://dl.flipkart.com/dl/sl-sales-a3144e-hall-effect-sensor-digital-switch-3-pin-10-pcs-electronic-components-hobby-kit/p/itmc326f1539906a?pid=EHKFYBQ5ERZFYCFD&cmpid=product.share.pp))
  - Neodymium Magnet 2mm X 1.5mm ([Flipkart](https://dl.flipkart.com/dl/sl-sales-a3144e-hall-effect-sensor-digital-switch-3-pin-10-pcs-electronic-components-hobby-kit/p/itmc326f1539906a?pid=EHKFYBQ5ERZFYCFD&cmpid=product.share.pp))
