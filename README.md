@@ -43,8 +43,9 @@ _I was not able to implement TEXTS,SHAPES and can't debug due to time constraint
  - Bootloading and uploading the code to the Microcontroller:
     - Install support for ATTINY: https://github.com/SpenceKonde/ATTinyCore
     - Upload the "Arduino as ISP sketch" to the Arduino board of yours :[File] -> [Examples] -> [Arduino as ISP]
-    - Connect the ATTINY with your arduino board based on the wiring below \
-   <img src="images/bootloading.jpeg" alt="Wiring" width="200"/> 
+    - Connect the ATTINY with your arduino board based on the wiring below 
+   <img src="images/Bootloading.JPG" alt="Wiring" width="800"/> 
+   
     - In the arduino IDE:
     - Select the correct chip:
        - Attiny Core: "Attiny 24/44/84"
@@ -59,7 +60,9 @@ Before soldering | After soldering
 <img src="images/Before.jpeg" alt="Before" width="200"/> | <img src="images/After.jpeg" alt="After" width="200"/>
 
 # OUTPUT:
-     (Images)
+ Mode 1 | Mode 2 | Mode 3 | Mode 4 | Mode 5 | Mode 6 | Mode 7
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+<img src="images/Mode1.jpeg" alt="Before" width="200"/> | <img src="images/Mode2.jpeg" alt="After" width="200"/> | <img src="images/Mode3.jpeg" alt="Before" width="200"/> | <img src="images/Mode4.jpeg" alt="Before" width="200"/> |<img src="images/Mode5.jpeg" alt="Before" width="200"/> | <img src="images/Mode6.jpeg" alt="Before" width="200"/> | <img src="images/Mode7.jpeg" alt="Before" width="200"/> 
 
 
 
