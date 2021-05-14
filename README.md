@@ -53,8 +53,9 @@ _I was not able to implement TEXTS,SHAPES and can't debug due to time constraint
        - Pin Mapping "Counter Clockwise"  
     - Upload the code
  - Now Attiny can be placed on the spinner and debugged accordingly
- - If final code is finalised,microcontroller can be soldered to the board (**Ensure the correct orientation**)
- (Before vs after image)
+Before soldering | After soldering
+------------ | -------------
+![Before](images/Before.jpeg) | ![After](images/After.jpeg)
 
 # OUTPUT:
      (Images)
