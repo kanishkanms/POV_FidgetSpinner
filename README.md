@@ -24,7 +24,7 @@ Buy Online:
  - Attiny84 ([Tanotis](https://www.tanotis.com/products/microchip-attiny84a-pu-8-bit-microcontroller-low-power-high-performance-attiny-20-mhz-8-kb-512-byte-14-pins-dip))
  - Bearing ([Flipkart](https://dl.flipkart.com/dl/tools-centre-hch-10pcs-608-2rs-8x22x7mm-rubber-sealed-ball-bearings-wheel-bearing/p/itmbbd5226a26969?pid=CWGFZPXZZ8QFZV7K&cmpid=product.share.pp))
  - Through hole CR2032 Battery holder(Very rare so I had to tie a hard wire around to hold the battery in place) ([Tanotis-SMD battery holder](https://www.tanotis.com/products/genuine-sparkfun-coin-cell-battery-holder-20mm-smd))
- - Custom PCB board (Order from PCB Manufacturer)
+ - [Custom PCB board (Order from PCB Manufacturer)](PCB/README.md)
 
 Manually:
  - Plastic cap(To attach to the bearing to act as holder - **This needs creativity**)
