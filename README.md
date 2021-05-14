@@ -39,7 +39,8 @@ _I was not able to implement TEXTS,SHAPES and can't debug due to time constraint
 # INSTRUCTIONS:
  - Solder all the components except ATTINY84 to the PCB as marked in the board itself
  - If you aren't making use of Hall effect sensors and magnets,short these two pins right away
- <img src="images/Bootloading.JPG" alt="Wiring" width="800"/> 
+ <img src="images/Hall_correction.jpg" alt="Correction" width="300"/> 
+
  - Bootloading and uploading the code to the Microcontroller:
     - Install support for ATTINY: https://github.com/SpenceKonde/ATTinyCore
     - Upload the "Arduino as ISP sketch" to the Arduino board of yours :[File] -> [Examples] -> [Arduino as ISP]
