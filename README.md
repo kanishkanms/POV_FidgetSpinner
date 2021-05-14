@@ -2,13 +2,13 @@
 
 Fidget spinner built from scratch that makes use of the concept of "Persistence of Vision" to produce Cool patterns using LEDs
 
-# Prerequisites:
+# PREREQUISITES:
  - Basic knowledge in Arduino
  - Arduino board
  - Soldering Iron and experience using it 
  - Breadboard ,jumper wires
 
-# Components required: 
+# COMPONENTS REQUIRED: 
 
 _Links given are the ones I used to purchase_
 
